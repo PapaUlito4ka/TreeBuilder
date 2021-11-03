@@ -11,7 +11,7 @@ $ go test -v
 === RUN   TestTreeDir
 --- PASS: TestTreeDir (0.00s)
 PASS
-ok      coursera/homework/tree     0.127s
+ok      github.com/papaulito4ka/tree     0.127s
 ```
 
 ```
